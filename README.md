@@ -1,2 +1,5 @@
-# Simple-Banking-System
-It's  a simple banking system where we have list of users that they can send their money from one account to another user.
+# Credit-Management-WebApp
+Credit management web application created for the task given by Sparks Foundation Internship Program.
+
+
+The SQL queries for the database creation is present in the file compnay.sql
